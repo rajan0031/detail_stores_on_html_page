@@ -1,6 +1,18 @@
 /* Custom CSS */
 body {
   font-family: Arial, sans-serif;
+  background-color: #0084ff;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#h2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
 
 .form-container {
@@ -9,6 +21,8 @@ body {
   padding: 16px;
   background-color: #0cdbb2;
   border-radius: 8px;
+  box-shadow: #b2e40f;
+  box-shadow: 12px;
 }
 
 .form-group {
